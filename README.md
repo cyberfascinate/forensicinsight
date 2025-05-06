@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Forensic Insight
+# Forensic Insight
 
 **Forensic Insight** is a lightweight, GUI-based forensic analysis tool for Windows systems. It helps investigators gather key system data, event logs, and user activity quickly and conveniently, with both plaintext and beautifully designed HTML reports.
 
